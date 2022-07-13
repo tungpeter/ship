@@ -1,0 +1,1 @@
+document.write('<marquee height="200" direction="UP" scrolldelay="5" scrollamount="5" onmouseover="this.stop()" onmouseout="this.start()"> <center><ul><li><a href="https://www.nhanchohang24h.com/2022/05/xe-ba-gac-cho-hang-tai-long-khanh.html" target="_blank" title="Xe Ba Gác Chở Hàng tại Long Khánh">Xe Ba Gác Chở Hàng tại Long Khánh</a></li></ul></center></marquee>'
